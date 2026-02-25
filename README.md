@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am a Barcelona-based data analyst and junior analytics engineer.
 
 <!--
 **leobeta92/leobeta92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
