@@ -1,5 +1,10 @@
 ## Hi there 👋 I am a Barcelona-based data analyst and junior analytics engineer.
 
+- I am a data analyst with over 8 years of experience in the e-commerce space.
+- I am also a technically-minded marketer, with hands-on experience setting up an analytics reporting platform in Google BigQuery.
+- I am looking for opportunities to take on analytics engineering projects and learning more about Google Cloud Platform services.
+- I am trained in SQL, Python, Looker, and BigQuery.
+
 <!--
 **leobeta92/leobeta92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
