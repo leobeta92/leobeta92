@@ -1,6 +1,6 @@
-## Hi there 👋 I am a Barcelona-based data analyst and junior analytics engineer.
+## Hi there 👋 I'm a data analyst and analytics engineer based in Barcelona.
 
-- I am a data analyst with over 8 years of experience in the e-commerce space.
+- I come from 8 years in e-commerce, where I gradually moved from marketing into data analysis and also building the data infrastructure underneath it — tracking implementation, pipeline work, and analytics tooling.
 - I'm currently building a BigQuery attribution project that unifies offline catalog data with online sales — modeling with dbt and working toward full pipeline automation.
 - My stack includes BigQuery, SQL, dbt, Python (Pandas), Google Tag Manager, and Google Analytics — with a growing interest in orchestration and cloud tooling on GCP.
 - I'm open to analytics engineering and data engineering roles where I can build things that actually move data around and make it trustworthy.
